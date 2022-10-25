@@ -1,8 +1,16 @@
-header {
-    background: coral;
-    justify-content: space-between;
+.top{
+    background-color: yellow;
 }
 
-.display-flex {
-    display: flex;
+.navigation-bar{
+   
+}
+
+a{
+ text-decoration: none;
+ color: black;
+}
+
+section{
+    padding-bottom: 50px;
 }
