@@ -1,0 +1,14 @@
+header {
+    background: coral;
+    /*justify-content: space-between;*/
+}
+
+
+
+.display-flex {
+    display: flex;
+}
+
+.justify-content {
+    justify-content: space-between;
+}
