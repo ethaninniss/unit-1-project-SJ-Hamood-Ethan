@@ -1,16 +1,3 @@
-header {
-    background: coral;
-    /*justify-content: space-between;*/
-}
-
 .nav-link.active {
     font-weight: bold;
-}
-
-.display-flex {
-    display: flex;
-}
-
-.justify-content {
-    justify-content: space-between;
 }
