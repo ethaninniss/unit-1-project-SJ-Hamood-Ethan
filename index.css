@@ -2,8 +2,8 @@
     background-color: yellow;
 }
 
-.navigation-bar{
-   
+.nav-link.active {
+    font-weight: bold;
 }
 
 a{

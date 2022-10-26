@@ -3,7 +3,9 @@ header {
     /*justify-content: space-between;*/
 }
 
-
+.nav-link.active {
+    font-weight: bold;
+}
 
 .display-flex {
     display: flex;
