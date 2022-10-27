@@ -1,0 +1,64 @@
+.hiring{
+   text-align: center;
+    
+}
+
+
+
+
+.contribute{
+    text-align: center;
+   
+}
+.donate1{
+   display:flex;
+  justify-content: center;
+    padding-top:5px;
+}
+
+.donate2{
+     display:flex;
+  justify-content: center;
+    padding-top:5px;
+}
+
+.updates{
+    text-align: center;
+     
+}
+
+.mb-3{
+    display: flex;
+    justify-content:center;
+}
+.form-control{
+    width:40%;
+}
+.form-text{
+    display:flex;
+  justify-content: center;
+    
+    
+}
+
+.btn-primary{
+   display: flex;
+   justify-content: center;
+  
+}
+
+.button1{
+    border-radius: 3px;
+    font-family: Poppins;
+    font-weight: normal;
+    color: rgb(255, 255, 255);
+    border-color: rgba(255, 255, 255, 0);
+    border-width: 0.5px
+}
+
+.button2{
+    display:flex;
+  justify-content: center;
+    
+}
+
